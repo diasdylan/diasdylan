@@ -7,10 +7,11 @@
 - 🌐 <a href="https://www.linkedin.com/in/diasdylan/" targe="_blank">Linkedin</a>
 - 🏛️ <a href="https://learning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=dylandias0086966" targe="_blank">ServiceNow Resume</a>
   
-
+<hr>
 <div> 
 <a href="https://github.com/diasdylan" target="_blank"> 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=diasdylan&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <hr>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasdylan&layout=compact&langs_count=16&theme=vue-dark"/> 
 </div>
 <hr>
