@@ -13,10 +13,13 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=diasdylan&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasdylan&layout=compact&langs_count=16&theme=vue-dark"/> 
 </div>
-<hr>
-<div>
-<!--   [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <hr> -->
+
+<!--START_SECTION:waka-->
+<!--
+<div> 
   <a href="https://wakatime.com/@diasdylan" target="_blank"> 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@diasdylan&theme=vue-dark&layout=compact"/> 
-
 </div>
+
+<!--END_SECTION:waka-->
