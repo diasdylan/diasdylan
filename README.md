@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS through the OneBiteCode course
 - 🌱 I’m currently learning servicenow in the servicenow university
 - 💼 You can find me on:
-- 🌐 <a href="https://www.linkedin.com/in/diasdylan/" target="_blank">Linkedin</a>
+- 🌐 <a onclick="window.open(this.href, '_blank');return false;" href="www.linkedin.com/in/diasdylan">Linkedin</a>
 - 🏛️ <a href="https://learning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=dylandias0086966" target="_blank">ServiceNow Resume</a>
   
 <hr>
@@ -16,10 +16,8 @@
 </div>
 <hr>
 
-<!--START_SECTION:waka-->
 <div> 
   <a href="https://wakatime.com/@diasdylan" target="_blank"> 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=diasdylan&theme=vue-dark"/> 
 </div>
 
-<!--END_SECTION:waka-->
