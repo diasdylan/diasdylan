@@ -9,8 +9,8 @@
   
 <hr>
 <div> 
-<a href="https://github.com/diasdylan" target="_blank"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=diasdylan&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+<!-- <a href="https://github.com/diasdylan" target="_blank"> 
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=diasdylan&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&rank_icon=github"/> -->
   <hr>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasdylan&layout=compact&langs_count=16&theme=vue-dark"/> 
 </div>
